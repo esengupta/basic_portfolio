@@ -68,6 +68,7 @@ body
 
 .container
 {
+  background-image: url(../images/image1.jpeg);
   width: 1360px;
   height: 500px;
   position: absolute;
